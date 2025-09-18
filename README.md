@@ -55,7 +55,7 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 
-![output](img/Ex-1 output.png)
+![output](img/Ex-1_output.png)
 
 ## RESULT:
 The program is executed successfully
